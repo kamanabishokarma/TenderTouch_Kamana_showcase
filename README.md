@@ -1,6 +1,6 @@
 TenderTouch Hemorrhoid Solutions Website
 
-This is the front-end website for TenderTouch Hemorrhoid Solutions, built for the MMED course. 
+This is the front-end website for TenderTouch Hemorrhoid Solutions.
 It features a single-page, responsive layout with dynamic testimonials.
 
 ## Features
